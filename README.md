@@ -1,6 +1,6 @@
-# GSoC 2026 - Neutralinojs
+# Google Summer of Code (GSoC) 2026 - Neutralinojs
 
-Google Summer of Code 2026 ideas and guidelines - Neutralinojs
+GSoC 2026 ideas and guidelines - Neutralinojs
 
 ## What is GSoC?
 
