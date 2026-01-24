@@ -1,7 +1,7 @@
 ## GSoC 2026 project ideas
 
 We have listed some tasks we extracted from our prioritized feature requests. Discuss
-your own ideas with us via [Discord](https://discord.gg/cybpp4guTJ) or email (`neutralinojs[AT]gmail.com`) or create a GitHub discussion thread. You can contribute Neutralinojs framework, CLI, client library, and templates.
+your own ideas with us via [Discord](https://discord.gg/cybpp4guTJ) or email (`neutralinojs[AT]gmail.com`) or create a GitHub discussion thread. You can contribute to the Neutralinojs framework, CLI, client library, and templates with your innovative ideas.
 
 Thank you for contributing to open-source 🎉
 
