@@ -62,6 +62,8 @@ Please create your GSoC proposal according to the following outline:
 
 ## Project ideas
 
+Go to the [GSoC 2026 project ideas list](./project-ideas.md)
+
 ## Contribution guidelines
 
 We really appreciate your code contributions. Please read [this contribution guide](https://neutralino.js.org/docs/contributing/framework-developer-guide#contribution-guidelines) before sending a pull request. Thank you for your contributions.
