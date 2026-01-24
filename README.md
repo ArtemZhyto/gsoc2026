@@ -5,7 +5,7 @@ GSoC 2026 ideas and guidelines - Neutralinojs
 ## What is GSoC?
 
 GSoC (Google Summer of Code) is an international program that motivates developers to contribute to open-source projects. Google awards stipends for contributors who
-successfully complete the GSoC program. GSoC contributors typically work on open-source development tasks under the guidance of organization mentors. Read more details about GSoC from the [official website](https://summerofcode.withgoogle.com/).
+successfully complete the GSoC program. GSoC contributors typically work on open-source development tasks under the guidance of organization mentors. Read more details about GSoC from the [official website](https://summerofcode.withgoogle.com).
 
 ## How do you become a GSoC contributor?
 
@@ -30,7 +30,7 @@ Mastering a codebase takes time, even if you are experienced in the languages an
 
 Learning, experimenting, collaborating, and gradually starting contributions creates a good first impression with your high-quality work. 
 
-## Using AI-powered programming tools
+## Using AI-powered programming tools during GSoC
 
 We don't discourage using AI-powered programming tools. If you prefer, you can use AI tools during code contributions, but make sure to carefully review AI-generated code snippets manually before submitting them in pull requests for review. However, we strongly recommend avoiding the following activities with AI:
 
