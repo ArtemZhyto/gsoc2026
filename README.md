@@ -24,7 +24,21 @@ Follow these steps to get started with GSoC 2026 as a contributor:
 9. Start drafting a proposal by discussing it with mentors.
 10. Submit your proposal and achieve the planned milestones based on the GSoC program [schedule](https://summerofcode.withgoogle.com/programs/2026).
 
-**⚠️ Important notice:** Mastering a codebase takes time, even if you are experienced in languages and tools used within the specific codebase. Neutralinojs codebases use several unique techniques, practices, and standards to implement simple solutions for complex problems &mdash; understanding them properly takes time. So, we recommend you get started by making small but high-quality contributions like small bug fixes, code improvements, and small features first, without trying to implement entire APIs or large features that require several discussions. Also, make sure not to implement solutions for existing GSoC ideas during the contribution period, since our goal is to build well-designed solutions for them collaboratively during the actual GSoC coding period based on approved GSoC proposals. Learning, experimenting, collaborating, and gradually starting contributions creates a good first impression with your high-quality work.
+## Contribution guide
+
+Mastering a codebase takes time, even if you are experienced in the languages and tools used within the specific codebase. Neutralinojs codebases use several unique techniques, practices, and standards to implement simple solutions for complex problems &mdash; understanding them properly takes time. So, we recommend you get started by making small but high-quality contributions like small bug fixes, code improvements, and small features first, without trying to implement entire APIs or large features that require several discussions. Also, make sure not to implement solutions for existing GSoC ideas during the contribution period, since our goal is to build well-designed solutions for them collaboratively during the actual GSoC coding period based on approved GSoC proposals. 
+
+Learning, experimenting, collaborating, and gradually starting contributions creates a good first impression with your high-quality work. 
+
+## Using AI-powered programming tools
+
+We don't discourage using AI-powered programming tools. If you prefer, you can use AI tools during code contributions, but make sure to carefully review AI-generated code snippets manually before submitting them in pull requests for review. However, we strongly recommend avoiding the following activities with AI:
+
+- Don't automate the whole programming task with AI &mdash; code productivity with AI-powered suggestions instead
+- Don't generate verbose, artificial pull request descriptions with AI &mdash; write a concise message yourself
+- Don't ask design decisions from AI agents &mdash; study the codebase yourself
+
+The GSoC program is an opportunity for you to learn, explore, experiment, and build, so use AI only for your coding productivity, not to automate everything you are responsible for.
 
 ## How do you start writing a project proposal?
 
@@ -47,8 +61,6 @@ Please create your GSoC proposal according to the following outline:
 7.  Future contributions (How do you plan to contribute to Neutralinojs in the future?)
 
 ## GSoC 2026 project ideas
-
-**⚠️ Important notice:** This list is still a draft and is frequently being updated by Neutralinojs maintainers.
 
 We have listed some crucial tasks below for you. But, feel free to discuss
 your own ideas with us via [Discord](https://discord.gg/cybpp4guTJ) or email (`neutralinojs[AT]gmail.com`) or create a GitHub discussion thread. You can contribute Neutralinojs framework, CLI, client library, and templates.
