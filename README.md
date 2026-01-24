@@ -77,7 +77,7 @@ Difficulty rating: Medium
 
 Project size: ~350h
 
-Mentors: Shalitha Suranga, Athif Shaffy, and Sainath Rao
+Mentors: Shalitha Suranga and Athif Shaffy
 
 #### Suggested technical decisions
 
