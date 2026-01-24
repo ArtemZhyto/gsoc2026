@@ -30,6 +30,8 @@ Mastering a codebase takes time, even if you are experienced in the languages an
 
 Learning, experimenting, collaborating, and gradually starting contributions creates a good first impression with your high-quality work. 
 
+We really appreciate your code contributions. Please read [this contribution guide](https://neutralino.js.org/docs/contributing/framework-developer-guide#contribution-guidelines) before sending a pull request. Thank you for your contributions.
+
 ## Using AI-powered programming tools during GSoC
 
 We don't discourage using AI-powered programming tools. If you prefer, you can use AI tools during code contributions, but make sure to carefully review AI-generated code snippets manually before submitting them in pull requests for review. However, we strongly recommend avoiding the following activities with AI:
@@ -64,9 +66,6 @@ Please create your GSoC proposal according to the following outline:
 
 Go to the [GSoC 2026 project ideas list](./project-ideas.md)
 
-## Contribution guidelines
-
-We really appreciate your code contributions. Please read [this contribution guide](https://neutralino.js.org/docs/contributing/framework-developer-guide#contribution-guidelines) before sending a pull request. Thank you for your contributions.
 
 ## Contributors
 
